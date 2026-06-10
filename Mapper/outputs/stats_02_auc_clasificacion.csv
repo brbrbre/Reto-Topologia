@@ -1,0 +1,13 @@
+Features,Clasificador,AUC-ROC,Std
+Ingesta (clínica),Logística,0.5696,0.0235
+Ingesta (clínica),Random Forest,0.5063,0.0612
+Ingesta (clínica),Grad. Boosting,0.5453,0.0426
+TDA (clúster),Logística,0.5488,0.0603
+TDA (clúster),Random Forest,0.5551,0.0687
+TDA (clúster),Grad. Boosting,0.5488,0.0603
+Combinado,Logística,0.5815,0.0456
+Combinado,Random Forest,0.498,0.0528
+Combinado,Grad. Boosting,0.5292,0.0514
+Clínico + TDA + Clúster,Logística,0.5848,0.0493
+Clínico + TDA + Clúster,Random Forest,0.5016,0.0519
+Clínico + TDA + Clúster,Grad. Boosting,0.5355,0.0581
