@@ -131,6 +131,10 @@ streamlit run app.py
 
 ---
 
-## Autoras
+## Colaboradores
 
-Proyecto desarrollado como parte de un reto de análisis de datos en salud materno-infantil, Chile.
+Brisma Alvarez Valdez
+Valeria Arciga Valencia
+Paulina Castellanos Chávez 
+Ximena Montes Bautista
+Emiliano Ruiz López
